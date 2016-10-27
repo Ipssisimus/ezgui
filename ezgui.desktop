@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ezgui
+GenericName=EZ-Installer
+Comment=Installer for iMake OS
+Exec=ezgui
+Terminal=false
+Type=Application
+Icon=/opt/ezgui-ezgui-0.0.6/de4a15f0c6dc1cb965dd514631d101d8.jpg
+Categories=System;
+Keywords=ezgui;installer;systeminstaller;system;programs;
